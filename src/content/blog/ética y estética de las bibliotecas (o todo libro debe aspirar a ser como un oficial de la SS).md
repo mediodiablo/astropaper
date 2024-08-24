@@ -13,6 +13,8 @@ url:
 created: 
 completed: 2022-12-04
 ---
+![](../../assets/images/2022/2022-12-Borges.jpeg)
+
 Hoy domingo hablaremos acerca del respeto debido a los libros. Desde pequeños despertó en nosotros la curiosidad por los libros. Libros que encontramos en las bibliotecas de nuestras casas (recordamos títulos como Siddhartha y Trópico de Cáncer) y no tanto los que nos obligaban a leer en el colegio. Luego al entrar a la adolescencia, por cosas del destino, conocimos a uno de los lectores más excéntricos y eruditos del Perú y del mundo. El Gran Reynaldo, doctor en literatura de la Universidad de Chicago y miembro _honoris causa_ de cojudeces.com. En aquel entonces Reynaldo aún no había emigrado del Perú y estudiaba literatura en la Universidad Católica (y todavía no se le había otorgado la membresía honoris causa). Sin embargo, ya se presentía que él era el elegido para alcanzar estratos extrahumanos.
 
 En una de nuestras conversaciones (que nosotros sentíamos como cátedras y no como diálogos), quizá conmovido por la poca inteligencia que desplegábamos, el Gran Reynaldo nos pidió enumerar y memorizar los siguientes principios y prometer que los seguiríamos por el resto de nuestras azarosas vidas.
