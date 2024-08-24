@@ -14,6 +14,8 @@ created:
 completed: 
 resources:
 ---
+![](../../assets/images/2022/2022-01-Trail-Run-by-the-ocean.jpg)
+
 Lo recibí en navidad. Incluso filmé la apertura del regalo porque era la primera navidad de Kai y quería registrarla para el recuerdo.
 
 El regalo antiperfecto es simple: una media maratón.
@@ -76,4 +78,4 @@ Pero me rebelo y prefiero sentarme y escribir esta diatriba de medio pelo.
 
 Y cortar las lengüetas de mis zapatillas. Hasta nunca!
 
-![](https://www.cojudeces.com/content/images/2022/01/Hokas.jpg)
+![](../../assets/images/2022/2022-02-Hokas.jpg)

@@ -13,6 +13,7 @@ created:
 completed: 
 resources:
 ---
+![](../../assets/images/2022/2022-04-Herodotus.jpeg)
 
 Este año ha comenzado diferente a los demás. La llegada de Kai en agosto del año pasado ha hecho que pasemos más tiempo con visitas familiares y menos tiempo haciendo listas de metas, objetivos, y tareas.
 

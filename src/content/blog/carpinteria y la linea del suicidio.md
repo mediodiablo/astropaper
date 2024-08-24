@@ -10,6 +10,7 @@ site: cojudeces.com
 status: published
 ---
 Por qué tenía que estar justo ahí ese cartel? Por qué!
+![](../../assets/images/2022/2022-05-Carpinteria-bluffs-trail.jpg)
 
 ## Reserva Natural de Carpinteria Bluffs
 
@@ -37,5 +38,6 @@ Habíamos avanzado un par de kilómetros en el sendero principal en Carpinteria 
 
 Y de pronto, como un homúnculo, como una estatuilla diabólica, como en un cuento de Raymond Carver: el cartel.
 
+![](../../assets/images/2022/2022-05-Carpinteria-bluffs.jpg)
 
 Es decir, de un bofetón nos desengañaron, adiós momento zen, good-bye Henry David Thoreau. Oye tú, contempla tu realidad tal cual y decide si marcas el número o te acercas al borde del acantilado que queda aquí nomás a treinta metros y _**te inclinas apenas hacia afuera y te dejas ir, paf se acabó.**_

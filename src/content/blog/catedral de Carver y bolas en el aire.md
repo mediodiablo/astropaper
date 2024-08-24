@@ -9,6 +9,7 @@ type: post
 site: cojudeces.com
 status: published
 ---
+![](../../assets/images/2022/2022-11-carver.jpg)
 
 En uno de sus cuentos más famosos, [Raymond Carver](https://es.wikipedia.org/wiki/Raymond_Carver?) relata la conversación entre un ciego y el narrador. El ciego es amigo de su mujer y ha ido a visitarlos. Su presencia mantiene intranquilo al narrador a lo largo del relato.
 
@@ -38,7 +39,7 @@ Y menos mal que la mía tampoco porque esta mañana fui al mall en Topanga y mi 
 
 Apuntó hacia el techo altísimo del mall pidiendo que le explique o describa esto de aquí.
 
-/insert pic/
+![](../../assets/images/2022/2022-11-bolas-en-el-aire.jpeg)
 
 Por dónde empezar? No encontraba el vocabulario ni en español ni en inglés. Supongo que mi hijo no esperaría que su papá lo supiera todo, pero al menos que pudiese describir con propiedad lo que nos rodea, lo inmediato.
 
@@ -56,7 +57,7 @@ Mientras seguíamos caminando por el mall, mi cerebro le daba vueltas al asunto.
 
 Hay muchísima vida silvestre: vegetación, aves, mamíferos, de todo.
 
-/insert kai pic/
+![](../../assets/images/2022/2022-11-kai-en-MC-1.jpeg)
 
 Y sin embargo, cuando camino por ahí y mi hijo se asombra con algún árbol, y luego con otro, y apuntan con su dedito hacia uno de ellos, y luego hacia el otro, lo único que sale de mi cerebro a través del hocico es: “ese es un árbol grande, ese otro es un árbol pequeño…”
 

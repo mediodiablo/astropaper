@@ -50,4 +50,4 @@ Nosotros usaremos Apple Notes.
 Say no more.
 
 
-![[bell curve.png]]
+![bell curve.png](../../assets/images/2022/2022-10-bell-curve.png)

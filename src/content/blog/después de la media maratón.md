@@ -15,7 +15,9 @@ created:
 completed: 
 resources:
 ---
-Bueno, aquí estamos. Domingo 8 de mayo. Día de la Madre, cumpleaños de nuestro colaborador Betuco y día siguiente a la infame media maratón. Cuando dije que era la [perfección a la inversa](https://www.cojudeces.com/el-regalo-antiperfecto/) porque requería [sufrir por sufrir](https://www.notion.so/La-media-marat-n-semana-3-509efbb4ea324faa9936683f70200e5b?ref=cojudeces.com), lo hice por chonguear. No imaginé que aquellos comentarios serían los más atinados que he hecho en mucho tiempo. El impulso que me hizo cortar las zapatillas no era un problema psiquiátrico sino instinto de supervivencia... o quizá sea simplemente la patética condición de ser un personaje Dostoyevskiano como [Polzunkov](https://www.cojudeces.com/un-personaje-de-dostoyevsky/):
+![](../../assets/images/2022/2022-05-solvang-min.png)
+
+Bueno, aquí estamos. Domingo 8 de mayo. Día de la Madre, cumpleaños de nuestro colaborador Betuco y día siguiente a la infame media maratón. Cuando dije que era la [perfección a la inversa](https://www.cojudeces.com/el-regalo-antiperfecto/) porque requería sufrir por sufrir, lo hice por chonguear. No imaginé que aquellos comentarios serían los más atinados que he hecho en mucho tiempo. El impulso que me hizo cortar las zapatillas no era un problema psiquiátrico sino instinto de supervivencia... o quizá sea simplemente la patética condición de ser un personaje Dostoyevskiano como [Polzunkov](https://www.cojudeces.com/un-personaje-de-dostoyevsky/):
 
 > En aquella cara se podía contemplar todo: vergüenza e insolente descaro, iracundia, dolor del fracaso, súplica de perdón por el atrevimiento de molestarle a uno, la conciencia del propio valer y, al mismo tiempo, la conciencia plena de la propia insignificancia...
 
@@ -23,7 +25,7 @@ Bueno, aquí estamos. Domingo 8 de mayo. Día de la Madre, cumpleaños de nuestr
 
 El historial de actividades de Garmin dice que el 13 de febrero fue la última vez que salí a correr. Una pequeña lesión a la pantorrilla nos sentó por dos semanas. En ese ínterin, Fresa también se lesionó y decidió retirarse de la carrera a pesar de que quedaba mucho tiempo para recuperarse y retomar la preparación.
 
-![](https://www.cojudeces.com/content/images/2022/05/Trail-20run-20--20semana-202.JPG.jpg)
+![](../../assets/images/2022/2022-05-Trail-run-semana-2.jpg)
 
 La inercia de la inactividad hizo fácil señalar en mi entorno inmediato cosas que me impedirían entrenar. El trabajo, la falta se sueño, el poco tiempo. Exactamente las mismas cosas que hacía dos semanas no me habían impedido nada y las mismas cosas que nunca impidieron que mi esposa se prepare.
 
@@ -65,7 +67,7 @@ Caminé hasta la cuarta milla e intenté retomar la carrera. Corrí una milla m�
 
 Para ese entonces la gente que me sobrepasaba ya no era del grupo atlético, sino del otro. Llegó un momento en el cual gente me sobrepasaba caminando. Por ejemplo esta anciana con várices en las pantorrillas:
 
-![](https://www.cojudeces.com/content/images/2022/05/Viejita-con-v-rices-min.png)
+![](../../assets/images/2022/2022-05-Viejita-con-v-rices-min.png)
 
 ### Topografía
 
@@ -79,13 +81,13 @@ La milla 10 me encontró solo en medio del campo. Iban 2 horas y 20 minutos. A e
 
 Fue entonces cuando llegó este mensaje de Jeanette.
 
-![](https://www.cojudeces.com/content/images/2022/05/IMG_3376.PNG)
+![](../../assets/images/2022/2022-05-text1.png)
 
 Qué vergüenza, mi esposa había terminado la carrera y me esperaba en la meta junto con mi hijo. Felizmente Kai tiene solamente 8 meses y espero que NO guarde recuerdos de este día.
 
 Veinte minutos después, en la milla 11, llegó el segundo mensaje de Jeanette.
 
-![](https://www.cojudeces.com/content/images/2022/05/IMG_3378.PNG)
+![](../../assets/images/2022/2022-05-text2.png)
 
 Mejor así, pensé. Que la ignominia no se extienda públicamente hasta mancillar a la familia.
 

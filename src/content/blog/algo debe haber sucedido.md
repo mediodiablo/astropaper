@@ -14,3 +14,6 @@ completed:
 resources:
 ---
 Entrada a la piscina del DoubleTree Suites en algún lugar cerca de Disneylandia.
+
+![](../../assets/images/2022/2022-08-Entrada-a-la-piscina-1.jpeg)
+
