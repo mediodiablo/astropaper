@@ -9,6 +9,8 @@ type: post
 site: cojudeces.com
 status: published
 ---
+![](../../assets/images/2022/2022-09-VUSO-SURF-COMP.jpeg)
+
 El 7 de agosto fuimos a Huntington Beach a ver las finales del Vans U.S. Open of Surfing. Son aproximadamente 72 millas (115 kilómetros) desde aquí hasta HB, así que no visitamos con frecuencia, pero cada vez que vamos, nos deleitamos con la atmósfera playera, relajada y sin poses de la conocida Surf City.
 
 Tanto nos gusta que desde hace años soñamos con comprar una casita por ahí, en algún rincón no muy alejado de la playa. Y hace un par de meses empezamos a ver casas a través de Zillow y videos en YouTube para entender mejor cómo están distribuidos los vecindarios.
@@ -25,7 +27,7 @@ Busquemos en el diccionario.
 
 > “gente, o un grupo de gente, considerada despreciable.” “Gentuza.”
 
-![](https://www.cojudeces.com/content/images/2022/09/Screenshot-2022-09-12-at-9.40.19-AM.png)
+![](../../assets/images/2022/2022-09-riff-raff.png)
 
 Qué raro que ambos amigos (que no se conocen entre ellos y que trabajan en diferentes profesiones y etc.) hayan utilizado el mismo término.
 

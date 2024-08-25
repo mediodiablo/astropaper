@@ -12,6 +12,8 @@ description: "the ultimate surfer siempre fue Gerry Lopez"
 pubDatetime: 2023-04-30
 slug: yin-and-yang-gerry-lopez
 ---
+![](../../assets/images/2023/2023-04-gerry-lopez-posterized.jpg)
+
 una breve reseña de un documental que les recomendamos, sobre todo si les gusta el agua o las tablas.
 
 El film se llama The Yin and Yang of Gerry Lopez, dirigido por Stacy Peralta y presentado a fines del 2021 por [Patagonia](https://www.patagonia.com/stories/the-yin-yang-of-gerry-lopez/video-121485.html).

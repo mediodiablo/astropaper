@@ -10,6 +10,8 @@ title: 'es posible identificar la mejor canción?'
 description: 'la respuesta a la pregunta es un rotundo y poético sí'
 pubDatetime: 2022-11-10
 ---
+![](../../assets/images/2022/2022-11-ovation.jpg)
+
 La pregunta completa es:
 
 > Es posible identificar la mejor canción de toda la obra de un artista al escuchar solamente una canción?

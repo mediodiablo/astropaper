@@ -13,6 +13,8 @@ created:
 completed: 
 resources:
 ---
+![](../../assets/images/2021/2021-10(2014-11)-Grand-Canyon-0029-min.jpg)
+
 Un amigo del trabajo estará visitando el Gran Cañón por primera vez y pidió algunas sugerencias. No soy un experto, pero he  emprendido el descenso en un par de ocasiones, así que compartí unos cuantos tips basados en mi experiencia.
 
 El atardecer en el Grand Canyon National Park es una de las vistas más espectaculares que he presenciado. El amanecer también. Si están de visita por la costa oeste de los Estados Unidos, un pequeño desvío a Arizona no sería mala idea.
@@ -37,9 +39,7 @@ Aquí algunos tips basados en mi experiencia.
 - **Fotografía**. El mejor momento para tomar fotos desde los bordes es **después del sunset**. La luz es perfecta y los turistas escasos (casi todos los turistas desaparecen apenas toman su selfie con el sol poniente).
 - **Daypack: ni _just in time_ ni _just in case_**_._ Piensa bien lo que vas a llevar contigo en el hike. Si eres minimalista (_just in time_), no exageres, recuerda que la temperatura varía y que no hay tiendas en el camino, solamente hay fuentes de agua cada dos o cuatro kilómetros. Si alguien de tu grupo es de la mentalidad _just in case_ y quieren llevarlo todo, deténlo o terminarás ayudándolo a llevar sus cosas de regreso y vas a ver lo que es sufrir. Lo digo por experiencia propia 🤬
 
-![](https://www.cojudeces.com/content/images/2021/10/2014-11---Grand-Canyon---0149-min.jpg)
-
-1/2d preparando trípode y cámara ya sin turistas
+![](../../assets/images/2021/2021-10(2014-11)-Grand-Canyon-0149-min.jpg)
 
 # Qué sucedió el 2014?
 

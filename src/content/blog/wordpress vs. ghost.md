@@ -41,17 +41,16 @@ Ese ruido de la interfaz de WordPress puede distraer (i.e., el post no llega a e
 
 En la práctica, cuando usamos WordPress, escribimos nuestros posts en otra herramienta (Google Docs, Evernote, o Notion) y luego pegamos el contenido en el editor de WordPress. Cuando usamos Ghost, escribimos nuestros posts (como éste) con gusto directamente en el editor.
 
-![Gallery Image](https://www.cojudeces.com/content/images/2021/10/Ghost-dashboard-min.png)
+#### Ghost
+![Gallery Image](../../assets/images/2021/2021-10-Ghost-dashboard-min.png)
 
-![Gallery Image](https://www.cojudeces.com/content/images/2021/10/Ghost-editor-min-1.png)
+![Gallery Image](../../assets/images/2021/2021-10-Ghost-editor-min-1.png)
 
-Ghost - dashboard (izquierda) y editor (derecha)
+#### Wordpress
 
-![Gallery Image](https://www.cojudeces.com/content/images/2021/10/WP-dashboard-min-1.png)
+![Gallery Image](../../assets/images/2021/2021-10-WP-dashboard-min-1.png)
 
-![Gallery Image](https://www.cojudeces.com/content/images/2021/10/WP-editor-min-1.png)
-
-WordPress - dashboard (izquierda) y editor (derecha)
+![Gallery Image](../../assets/images/2021/2021-10-WP-editor-min-1.png)
 
 **Ghost es el ganador** en este aspecto.
 

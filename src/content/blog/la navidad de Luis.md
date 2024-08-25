@@ -10,6 +10,8 @@ title: la navidad de luis
 description: la respuesta de Luis es casi Socrática
 pubDatetime: 2023-12-12
 ---
+![](../../assets/images/2023/La_Navidad_de_Luis-Leon-Gieco-Vinilo_simple.jpg)
+
 en la visión helenística en la que la gente cae en tres categorías:
 1. los que compran y venden (los que buscan riqueza)
 2. los que compiten (es decir, el atleta que compite para ganar, no para participar)

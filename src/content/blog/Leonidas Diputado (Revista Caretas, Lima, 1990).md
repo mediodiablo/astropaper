@@ -1,6 +1,6 @@
 ---
 title: 'Leonidas Diputado (Revista Caretas, Lima, 1990)'
-description: ''
+description: 'que el lector preste gran atención y saboree línea por línea el artículo-entrevista escrito por el periodista peruano Jaime Bedoya.'
 pubDatetime: 2006-06-29
 updateDate: 
 tags: 
@@ -9,7 +9,10 @@ type: post
 site: cojudeces.com
 status: published
 slug: leonidas-diputado
+featured: true
 ---
+![Leonidas Carbajal vistiendo una camisa azul](../../assets/images/2006/2006-06-trampolin-a-la-fama.jpg)
+
 Lo que a continuación presentamos no es algo que se vea todos los días; rogamos, pues, que el lector preste gran atención y saboree línea por línea el artículo-entrevista escrito por el periodista peruano Jaime Bedoya.
 
 En la edición del 1° de Octubre, 2005, mencionamos una carta que recibimos del Gran Riva: "(Mediodiablo) Te cuento que en Lima exhumé el numero de Caretas donde está el famoso artículo de Jaime Bedoya sobre el gran Carbajal; le saqué dos copias, una para ti y una para mí. Te pediría que cuando tengas tiempo escribieras un comentario, enumerando número de párrafo y línea, pero un comentario del tipo antropo-filológico-estilístico. Lo digo en serio."

@@ -15,7 +15,8 @@ Bueno… le llegó el turno a nuestro querido surfing.
 
 En un campeonato de longboard en Western Australia, la primera competidora trans en surfing campeonó un par de divisiones. [Aquí la nota periodística](https://stabmag.com/news/first-transgender-woman-to-compete-in-surfing-wins-wa-longboard-event/?ref=cojudeces.com).
 
-Sasha Jane Lowerson (la más alta de la foto)
+#### Sasha Jane Lowerson (la más alta de la foto)
+![](../../assets/images/2022/2022-05-Trans-gana-en-surf.jpg)
 
 Esto ya ha sucedido en otros deportes, incluyendo mixed martial arts en la UFC.
 

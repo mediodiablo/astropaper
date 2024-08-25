@@ -13,6 +13,8 @@ url:
 created: 
 completed: 2006-08-02
 ---
+![](../../assets/images/2006/2006-02-yovisiteganimedes.jpg)
+
 Esta mañana de jueves, estuvimos conversando con nuestro gran amigo y asesor J. Hablábamos de estupideces diversas, poker en la casa del terror, las figuras célebres que el colegio La Recoleta solía formar en el ayer y cómo el hoy es una espera ansiosa, una fútil e interminable adición de ceros (esta última frase copiada de [Waking Life](http://www.imdb.com/title/tt0243017/?ref=cojudeces.com), película de Richard Linklater). En fin, hablábamos de esas cosas.
 
 Luego pasamos a hablar de literatura, J comentó que está leyendo un libro un poco cojudo pero cautivador. Compartió el inicio del libro con nosotros, y esa frase primera fue tan extraordinaria, que nos hizo recordar aquellos otros inicios que han quedado en la memoria:

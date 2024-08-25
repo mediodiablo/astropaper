@@ -35,9 +35,8 @@ Al día siguiente de ver el documental, fuimos a una [tienda](https://www.posei
 
 De regreso en casa, le instalamos las quillas y la pita al SUP y lo dejamos reposar contra la cerca del jardín, al lado de las demás tablas. Contemplábamos el pequeño pero variado _quiver_. Le pregunté qué carajo es un waterman. Me dijo que es alguien que domina por lo menos cuatro disciplinas acuáticas, de preferencia orientadas al surfing. Por ejemplo, dijo, bodysurfing, shortboard, free diving, y foil, o shortboard, longboard, windsurfing, y SUP.
 
-![](https://www.cojudeces.com/content/images/2022/04/2022-04---Quiver---0009-2-1.jpg)
-
-Quiver de 1/2d, abril 2022
+#### Quiver de 1/2d, abril 2022
+![](../../assets/images/2022/2022-04-Quiver-0009-2-1.jpg)
 
 > “Ahhh...”, dije, “o sea que ya soy un waterman?”
 

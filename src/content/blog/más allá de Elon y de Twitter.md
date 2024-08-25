@@ -9,9 +9,12 @@ type: post
 site: cojudeces.com
 status: published
 ---
+![Ilustración de Slate. Imagen de Prisma Illustration y Thinkstock. Edición de cojudeces.com
+](../../assets/images/2022/2022-11-Twitter.png)
+
 Bueno pues, el CSM lo logró. Compró Twitter y liberó al pajarito. (La traducción al español de su tweet 👇🏼 puede sonar un poco maloy pero afortunadamente el riesgo de que lo bloqueen es nulo 😃).
 
-
+![](../../assets/images/2022/2022-11-Elon-tweet.png)
 
 En estos tiempos dementes y lunáticos nos sorprende que nos sorprenda (pero de todos modos nos sorprende) la cantidad incontable de pedidos para censurar, restringir, frenar, y cancelar el nuevo Twitter.
 

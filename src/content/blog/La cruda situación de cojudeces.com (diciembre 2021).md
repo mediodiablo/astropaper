@@ -73,4 +73,4 @@ Y bueno, después de habernos puesto al día, y ya con nuestro nuevo perfil y to
 
 ### ... emprendemos el 2022 con toda la energía y todo el optimismo, como Arthur!
 
-![](https://www.cojudeces.com/content/images/2021/12/Arthur.JPG)
+![](../../assets/images/2021/2021-12-Arthur-1.jpeg)

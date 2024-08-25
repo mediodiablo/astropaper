@@ -12,6 +12,8 @@ description: "sabiduría Socrática directamente de la Biblioteca Gredos"
 pubDatetime: 2023-10-19
 reference 1: [[behave philosophically (seek real knowledge)]]
 ---
+![](../../assets/images/2023/2023-10-socrates.jpeg)
+
 queremos compartir un pasaje del diálogo Fedón, del gran Sócrates que en paz descanse. La página de [Wikipedia](https://en.wikipedia.org/wiki/S%C3%B3crates) lo describe como un intelectual, alcohólico, y fumador.
 Hay mucha sabiduría en las enseñanzas de Sócrates, y estas palabras nos parecen muy pertinentes estos días, en los cuales nadie sabe a quién creerle y a quién no.
 

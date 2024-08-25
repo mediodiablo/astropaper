@@ -10,6 +10,7 @@ site: cojudeces.com
 status: published
 slug: olluco-parte-1
 ---
+![](../../assets/images/2022/2022-07-Chapulin-Colorado.jpg)
 
 ## _(publicada originalmente en noviembre del 2006)_
 

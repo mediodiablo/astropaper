@@ -28,7 +28,7 @@ Investiguemos.
 
 ## Ezra Pound
 
-![](https://www.cojudeces.com/content/images/2022/09/Ezra-Pound-Screenshot.png)
+![](../../assets/images/2022/2022-09-Ezra-Pound-Screenshot.png)
 
 Una simple búsqueda en Google revela un ensayo escrito por el poeta Ezra Pound titulado _What Is Money For?_ El ensayo, publicado en 1935, cubre temas como la definición del dinero, usos, propósito, valor, el precio justo, cantidad, inflación, usura, problemas de distribución. Es un ensayo político enfocado en revelar problemas sistemáticos que generan y exageran desigualdad socioeconómica. De paso menciona a Hitler y a Mussolini como buenos ejemplos de líderes que están luchando a favor de la justicia y en contra de estratos parasíticos de la sociedad (el ensayo fue publicado en 1935, cuatro años del inicio de la Segunda Guerra Mundial).
 
@@ -36,7 +36,7 @@ Según Pound, entonces, el dinero es un instrumento político que sirve para sub
 
 ## Bertrand Russell y Pitágoras
 
-![](https://www.cojudeces.com/content/images/2022/09/Bertrand-Russell.webp)
+![](../../assets/images/2022/2022-09-Bertrand-Russell.webp)
 
 Bertrand Russell
 

@@ -12,8 +12,9 @@ status: published
 slug: examen-de-filosofia 
 created: 2023-04-15
 completed: 2023-04-15
+featured: true
 ---
 Del inigualable Padre Hubbert Lanssiers, examen de filosofía de 5to de secundaria, 
 
 ## colegio SS.CC. Recoleta. Lima, Peru, circa 1990.
-![[Prueba-de-filosofia---Lanssiers.jpeg]]
+![](../../assets/images/2023/2023-04-Prueba-de-filosofia---Lanssiers.jpeg)

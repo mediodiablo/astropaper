@@ -13,4 +13,4 @@ pubDatetime: 2023-11-30
 ---
 Berkshire Hathaway, con una capitalización de mercado de $780 billones (noviembre 2023), ha llevado el concepto de "fondo sobre forma" o "supremacía del contenido sobre la forma" a su máxima expresión en el universo de páginas web.
 
-![[Berkshire website.png]]
+![landing page of Berkshire Hathaway](../../assets/images/2023/2023-11-bkr-website.png)

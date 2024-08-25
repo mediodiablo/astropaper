@@ -13,6 +13,8 @@ resources: '(https://www.lanacion.com.ar/espectaculos/musica/el-amor-es-mas-fuer
 - https://twitter.com/capitanintriga/status/1008711146122211328?s=46&t=4P7hYhXNTXgPw6O3s0Qw8Q
 - [](https://medium.com/@maxipoter/el-amor-es-mas-fuerte-21-anos-despues-e006eb7d2c9)'
 ---
+![](../../assets/images/2023/2023-03-Tanguito.jpg)
+
 "tengo entendido que hubo un tiroteo en Morón..." fue lo que explicó nuestro gran amigo creativo y mitómano superhéroe del barrio cuando con Martín nos rascábamos las cabezas tratando de interpretar la letra de la canción.
 
 "... en Argentina", aclaró como siempre con el dato iluminador.
@@ -50,7 +52,7 @@ Aquí Barrientos y Martín necesitaban algo que rimara con "corazón", algún ba
 
 Por ejemplo aquí una visión concordante:
 
-/insertar tweet/
+![](../../assets/images/2023/2023-03-Tweet-sobre-moron.png)
 
 ## qué cagada, no?
 Ánimo, el amor es más fuerte. Aquí dejamos siete anécdotas acerca del tema.

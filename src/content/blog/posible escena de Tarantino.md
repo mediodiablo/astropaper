@@ -63,3 +63,5 @@ Lo que este pobre personaje de escena de Tarantino no sabía era que yo ya me ha
 > **You Talkin’ to Me? You Talkin’ to Me? Then who the hell else are you talkin’ to?**
 
 … well I’m the only one here… ↓
+
+https://youtu.be/-QWL-FwX4t4?si=10VYCKEoS78lz9jX

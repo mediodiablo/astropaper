@@ -9,7 +9,10 @@ published: 2023-03-06
 title: 'sobre guitarras y el mejor solo de todos los tiempos'
 description: 'David Gilmour concibe el mejor solo de todos los tiempos'
 pubDatetime: 2023-03-06
+featured: true
 ---
+![](../../assets/images/2023/2023-03-Gilmour-min.jpg)
+
 > "Te acuerdas del tipo que rompía las guitarras cuando nadie tenía un miserable amplificador?" (mientras miro las nuevas olas, Serú Girán, 1980)
 
 ## guitarras eléctricas
@@ -44,10 +47,11 @@ Hay solos extraordinarios y extraterrestres, como el de Bohemian Rhapsody (Brian
 
 ... y luego, desde un cielo cada vez menos lejano y más alto, por sobre todo, se oye *I have become comfortably numb*
 
-/insertar link/
+https://youtu.be/_FrOQC-zEog
 
 Qué guitarra usó David Gilmour cuando grabó Comfortably Numb? Una Fender Stratocaster con algunas modificaciones.
 
 (para los nerds: fue una black Strat, con un bridge pickup DiMarzio FS-1, conectada a una Hiwatt DR103, con el pedal Electro-Harmonix Ram’s Head Big Muff).
 
-(y para los incrédulos y herejes: nuestro colaborador Rick Beato nos ofrece su apoyo con este video: https://youtu.be/SV-y91BZonY)
+#### Rick Beato
+(y para los incrédulos y herejes: nuestro colaborador Rick Beato nos ofrece su apoyo con este video: [Top 20 Rock Guitar Solos of All Time](https://youtu.be/SV-y91BZonY))

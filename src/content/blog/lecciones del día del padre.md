@@ -9,6 +9,7 @@ type: post
 site: cojudeces.com
 status: published
 ---
+![León obligado a ir en en busca de alguna "experiencia" en el crater del ngorongoro](../../assets/images/2022/2022-06-leon-obligado.jpg)
 
 Ayer fue mi primer Día del Padre. Aprendí un par de cosas.
 
@@ -57,3 +58,10 @@ La gente seguía llegando y se podía ver claramente en cada familia algo inesca
 Padres de familia que avanzaban como zombies, que tampoco querían empacar, manejar, desempacar, estacionar, caminar, jalar un vagón, empujar un coche… ellos sólo querían paz.
 
 Aquí algunas fotos.
+
+### Padres de familia "disfrutando" del Día del Padre
+![](../../assets/images/2022/2022-06-diadelpadre1.jpeg)
+![](../../assets/images/2022/2022-06-diadelpadre2.jpeg)
+![](../../assets/images/2022/2022-06-diadelpadre3.jpeg)
+![](../../assets/images/2022/2022-06-diadelpadre4.jpeg)
+![](../../assets/images/2022/2022-06-diadelpadre5.jpeg)

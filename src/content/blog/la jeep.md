@@ -10,8 +10,11 @@ tags:
 type: post
 site: cojudeces.com
 status: published
+slug: jeep
 ---
 Nuestra Jeep merece un post.
+
+![](../../assets/images/2022/2019-02-Yosemite-Desert-0097-2.jpg)
 
 La compramos en octubre del 2018. Hasta ese entonces habían sido 15 años de una secuencia de autos sedan.
 
@@ -21,7 +24,7 @@ Pensamos en las Subaru Crosstrek o Outback, pero preferíamos algo verdaderament
 
 Elegimos la Wrangler sobre la Land Cruiser por dos factores: 1) las Land Cruiser son demasiado caras, y 2) el look de la Wrangler es inconfundible, además de su historia que se remonta a la Willis MB de la Segunda Guerra Mundial.
 
-![By BrokenSphere - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=3557261](https://www.cojudeces.com/content/images/2022/03/Covered_Willy-s_jeep_Wings_Over_Wine_Country_2007.JPG)
+![By BrokenSphere - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=3557261](../../assets/images/2022/2022-03-Covered_Willy-s_jeep_Wings_Over_Wine_Country_2007.jpeg)
 
 Willis MB
 
@@ -33,7 +36,7 @@ Por qué? Porque cambió nuestra relación con los autos y nuestro _estilo de v
 
 > felicitaciones! ahora sí por fin puedo llamarte “sobrino”!
 
-![](https://www.cojudeces.com/content/images/2022/03/2018-11---Joshua-Tree---0136-Edit.jpg)
+![](../../assets/images/2022/2018-11-Joshua-Tree-0136-Edit.jpg)
 
 en Joshua Tree National Park
 
@@ -47,7 +50,7 @@ La Jeep perdió varios años de vida y 25% de su valor de mercado ese fin de sem
 
 Ah... manejar sin temor a rayones y sin miedo a chancar los aros... saber que podemos trepar a la acera o que no vamos a atollarnos si se nos acaba la pista y queda frente a nosotros barro, arena, nieve... no tiene precio.
 
-![](https://www.cojudeces.com/content/images/2022/03/2018-11---Joshua-Tree---0052.jpg)
+![](../../assets/images/2022/2018-11---Joshua-Tree---0052.jpg)
 
 ## Perspectiva y visibilidad
 
@@ -61,7 +64,7 @@ Con la llegada de la Jeep, la cantidad de expediciones se ha incrementado mas de
 
 Cualquier fin de semana o día libre es la excusa para salir a explorar. Yosemite, Grand Canyon, Joshua Tree, Death Valley, Morro Bay, Leo Carrillo, innumerables visitas a playas y montañas, camping, etcétera.
 
-![](https://www.cojudeces.com/content/images/2022/03/2019-05---Central-Coast---0040-3.jpg)
+![](../../assets/images/2022/2019-05---Central-Coast---0040-3.jpg)
 
 en Morro Bay
 
@@ -73,6 +76,6 @@ Hoy con la Jeep, echamos los paddle boards en el techo y las shortboards en la m
 
 El pequeño sinsabor de este cambio en actividades es la pregunta que nos visita cada cierto tiempo: dónde estuvimos los últimos diez años cuando éramos jóvenes?
 
-![](https://www.cojudeces.com/content/images/2022/03/2016-02---SUP-and-Oak-Glen---0001.jpg)
+![](../../assets/images/2022/2016-02---SUP-and-Oak-Glen---0001.jpg)
 
 en Ventura con los SUP

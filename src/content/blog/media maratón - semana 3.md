@@ -15,9 +15,8 @@ He finalmente aceptado la realidad de la media maratón. Participaré. Fresa tam
 
 Después de cortar las HOKA (ver foto), recapacité. “No hay escapatoria”, pensé, “entonces caballero dedica los meses que quedan a prepararte y vemos qué pasa.”
 
-![](https://www.cojudeces.com/content/images/2022/02/Hokas.jpg)
-
-HOKAs acuchilladas
+#### HOKAs acuchilladas
+![](../../assets/images/2022/2022-02-Hokas.jpg)
 
 Esto significa dejar de lado por completo: el surfing, las pesas, la calistenia, inclusive quizás el trail running.
 
@@ -70,13 +69,13 @@ La pantalla (o dial) es AMOLED con más del doble de resolución y brillo que la
 
 Tengo la versión Sapphire - Black Titanium.
 
-![](https://www.cojudeces.com/content/images/2022/02/Garmin-Epix-2.jpeg)
+![](../../assets/images/2022/2022-02-Garmin-Epix-2.jpeg)
 
 ### **Nike ZoomX Invincible Run**
 
 Adquisición resultado de haber destruido las HOKA y reconocido que no hay escapatoria. Pagué precio completo (ouch!) pero valió la pena. Las zapatillas son ligeras y con bastante amortiguación. Los pies no protestan después de corridas largas.
 
-![](https://www.cojudeces.com/content/images/2022/02/Nike-ZoomX.JPG)
+![](../../assets/images/2022/2022-02-Nike-ZoomX.jpeg)
 
 ### Nike Pegasus 38
 
@@ -90,7 +89,7 @@ Las Nike Pegasus 38 no tienen las mejores _reviews_, pero no son astronómicame
 
 Las encontré en oferta en [backcountry.com](http://backcountry.com/?ref=cojudeces.com).
 
-![](https://www.cojudeces.com/content/images/2022/02/air-zoom-pegasus-38-flyease-mens-easy-on-off-road-running-shoes-H16QG5.jpeg)
+![](../../assets/images/2022/2022-02-air-zoom-pegasus-38-flyease-mens-easy-on-off-road-running-shoes-H16QG5.jpeg)
 
 ### HOKA Carbon X2
 
@@ -104,7 +103,7 @@ Sí, las mutilé, pero milagrosamente resucitaron.
 
 Estas son para correr en montaña. No son nuevas. Ojalá que tengan una larga vida. Me parece hasta ahora el modelo más chévere de las Wildhorse.
 
-![](https://www.cojudeces.com/content/images/2022/02/Nike-Wild-Horse-6.jpeg)
+![](../../assets/images/2022/2022-02-Nike-Wild-Horse-6.jpeg)
 
 ## Update (final de la semana 3)
 
@@ -116,4 +115,4 @@ Por ejemplo, los long runs de las semanas iniciales son de 9 millas y tienen que
 
 Además correr en montaña relaja la mente, correr en pista tiene el efecto contrario.
 
-![](https://www.cojudeces.com/content/images/2022/02/Trail-run---semana-2-1.JPG)
+![](../../assets/images/2022/2022-05-Trail-run-semana-2.jpg)

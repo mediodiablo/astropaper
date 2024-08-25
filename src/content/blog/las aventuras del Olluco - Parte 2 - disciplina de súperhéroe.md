@@ -10,6 +10,8 @@ site: cojudeces.com
 status: published
 slug: olluco-parte-2 
 ---
+![](../../assets/images/2022/2022-07-Olluco-enlatado.jpg)
+
 ## _(Publicada originalmente en noviembre del 2006)_
 
 Continuando con la biografía de nuestro superhéroe el Olluco, diremos que sus poderes provienen de dos fuentes muy simples: nutrición y ejercicio.

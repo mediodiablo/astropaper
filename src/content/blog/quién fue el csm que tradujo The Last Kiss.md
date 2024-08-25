@@ -15,6 +15,8 @@ resources:
 ---
 Hoy mientras manejábamos al acuario de Long Beach dejamos que Apple Music se encargara de escoger canciones. Como a la media hora empezó la extraordinaria interpretación que hace Eddie Vedder de The Last Kiss.
 
+![](../../assets/images/2022/2022-01-Eddie-Vedder--Ana-Viotti-.jpg)
+
 El asiento del copiloto vacío, la familia en el asiento trasero. Empezamos a cantar en silencio con melancolía. Recordamos que la canción original es de la década de los 60s, compuesta por Wayne Cochran acerca de varios accidentes en la Route 1941 en Georgia y sobre todo acerca del accidente de Jeannette Clark, de 16 años, quien muere cuando su auto choca contra un tractor-trailer.
 
 De pronto, entre la segunda y tercera estrofa, involuntariamente y como contrapunto, la versión en español resucitó de algún lugar recóndito de nuestros cerebros...
@@ -55,3 +57,5 @@ Prende las luces no para poder manejar mejor sino para poder leer el letrero de 
 Qué maestro.
 
 Bueno, y el “icing on the cake”: este video bizarro donde Los Doltons interpretan la canción y un par de animadoras (y el público en general) celebran y bailan con gran alegría este tema trágico.
+
+https://youtu.be/QQZPBCsmjs8

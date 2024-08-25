@@ -26,6 +26,6 @@ cojudeces.com llegó a la web en el año 2006. Recordamos con nostalgia que fuim
 
 ### vintage banner circa 2007
 <div style="text-align:center;">
-  <img src="/assets/coju.gif" class="sm:w-1/2 mx-auto" alt="cojudeces.com vintage banner">
+  <img src="/assets/coju-og.gif" class="sm:w-1/2 mx-auto" alt="cojudeces.com vintage banner">
 </div>
 

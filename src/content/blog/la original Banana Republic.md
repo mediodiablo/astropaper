@@ -11,6 +11,8 @@ site: cojudeces.com
 status: published
 created: 2022-12-28
 ---
+![](../../assets/images/2022/2022-12-catalogos-1024x645.jpeg)
+
 No. No es el Perú.
 
 No es posible ser número en todo. Pero obviamente lo intentamos con todas nuestras fuerzas.
@@ -31,7 +33,7 @@ Un grupo de prendas que se distinguían porque, raramente, no carecían de perso
 
 Este grupo era llamado a veces “heritage” y otras “archives”. Y lo otro que nos llamó la atención fue que algunos productos mostraban ilustraciones hechas a mano como ésta:
 
-![](https://www.cojudeces.com/content/images/2022/12/br_archive-min.jpeg)
+![](../../assets/images/2022/2022-12-br_archive-min.jpeg)
 
 la famosa expedition shirt
 
@@ -55,13 +57,9 @@ Aquí un extracto del [Catalogue No.4, 1980](https://www.secretfanbase.com/bana
 
 Y aquí unas fotos del [Catalogue No.26, Fall 1986](https://www.secretfanbase.com/banana/banana-republic-catalog-26-fall-1986-the-inca-trail/?ref=cojudeces.com) en el que nuestro querido Cusco es la estrella.
 
-![Gallery Image](https://www.cojudeces.com/content/images/2022/12/BRCovers29Fall86-min.jpg)
+![Gallery Image](../../assets/images/2022/2022-12-brfall1986003-min.jpg)
 
-![Gallery Image](https://www.cojudeces.com/content/images/2022/12/brfall1986003-min--1-.jpg)
-
-![Gallery Image](https://www.cojudeces.com/content/images/2022/12/BRFall1986018-min.jpg)
-
-edición Inca Trail
+![Gallery Image](../../assets/images/2022/2022-12-BRFall1986018-min.jpg)
 
 # Indiana Jones
 
@@ -74,7 +72,7 @@ Con esta nueva perspectiva era inevitable creernos Indiana Jones y sentir la nec
 
 El último producto de la lista es el renacimiento del Leather Flight Jacket del otoño de 1988 (abajo la foto).
 
-![](https://www.cojudeces.com/content/images/2022/12/flightjacket-min.jpeg)
+![](../../assets/images/2022/2022-12-flightjacket-min.jpeg)
 
 # Extractos de entrevistas que encontramos durante otra noche de insomnio
 
@@ -82,7 +80,7 @@ El último producto de la lista es el renacimiento del Leather Flight Jacket del
 
 Primero creamos un catálogo. Era una progresión natural porque yo escribo, y Patricia dibuja, así que creamos un pequeño catálogo y lo enviamos a 500 amigos alrededor del país y a alguna gente de los medios de comunicación. Uno de los catálogos aterrizó en el escritorio de un anunciante de radio en New York, quien lo leyó a los viajeros del tri-state (New York, New Jersey, Connecticut) una mañana. El anunciante llamó a Patricia por teléfono, y durante una entrevista de 20 minutos, ella dijo que cualquiera que quisiera una copia debería enviar $1 al PO Box 745 en Mill Valley, California. Tres días después, el cartero entró con dos pilas de correo. Abrimos los sobres y el total era suficiente para cubrir los gastos de los catálogos y del envío -y un poquito de sobra como para pagar la comida por algunos meses.”
 
-![](https://www.cojudeces.com/content/images/2022/12/zieglers-from-tricycle-min.jpg)
+![](../../assets/images/2022/2022-12-zieglers-from-tricycle-min.jpg)
 
 Patricia Gwilliam Ziegler and Mel Ziegler
 

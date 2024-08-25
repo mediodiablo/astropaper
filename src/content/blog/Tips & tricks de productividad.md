@@ -12,6 +12,8 @@ description: 'haciendo la productividad de la manera correcta'
 pubDatetime: 2023-11-13
 resources: 'Photo by [Georgie Cobbs](https://unsplash.com/@georgie_cobbs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/yellow-ceramic-mug-beside-gray-aluminum-imac-bKjHgo_Lbpo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)'
 ---
+![](../../assets/images/2023/2023-11-desktop-setup-minimalista.jpg)
+
 en estos tiempos modernos en los que velocidades y frecuencias solamente avanzan en una dirección (hacia arriba), es inaceptable que uno quede a la zaga por culpa de un sistema mediocre de productividad.
 
 Un sistema robusto requiere software, hardware, y buenos hábitos.

@@ -8,8 +8,9 @@ tags:
 type: post
 site: cojudeces.com
 status: published
-url: peregrinaje-y-tragedia 
+slug: peregrinaje-y-tragedia 
 ---
+![](../../assets/images/2022/2022-04-barnes-noble.jpeg)
 
 Ayer visitamos una librería [Barnes & Noble](https://en.wikipedia.org/wiki/Barnes_%26_Noble?ref=cojudeces.com). Sí, su extinción parece inevitable, pero todavía existen.
 

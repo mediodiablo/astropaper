@@ -12,6 +12,8 @@ created: 2024-01-05
 completed: 2024-01-05
 published: 2024-01-05
 ---
+![mis libros de la Biblioteca Clasica Gredos](../../assets/images/2024/Libros-Gredos.jpeg)
+
 el 2023 no fue un buen año en el tema libresco. Sobre todo para los que nos consideramos aficionados a los buenos libros y las buenas ediciones. Un poco de historia y otro poco de filosofía, y nada más. Al mismo tiempo, leímos a Platón en Biblioteca Clásica Gredos, tres diálogos, que es casi nada y a la vez no es poco.
 
 De todos modos, queremos rectificar las cosas, y con esto presentamos la siguiente lista de libros para el 2024:

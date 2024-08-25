@@ -11,6 +11,8 @@ title: "la regla de wittgenstein"
 description: "la regla mide la mesa, o al revés?"
 pubDatetime: 2023-04-02
 ---
+![](../../assets/images/2023/ludwig-wittgenstein-philosophy.webp)
+
 descojudeémonos un poco y filosofemos. El solo hecho de haber conjugado esos dos verbos nos sube el cociente intelectual 10 puntos.
 
 ## preámbulo (i.e., floro innecesario)
