@@ -56,7 +56,7 @@ Por ejemplo, cuando a uno lo critican o le dan consejos, hay que ponerse a pensa
 
 Hay que pensar con detenimiento, y es muy probable que sea la mesa la que está midiendo a la regla, y no viceversa: la crítica revela más acerca de la persona que emite la crítica que lo que esta persona intenta comunicar. Y mientras menos confíes en la fiabilidad de la regla, más información recibes acerca de la regla y menos acerca de la mesa.
 
-Una vez que asimilamos esta idea, es imposible dejar de reconocerla por todos lados. Es como el [tres.](https://www.cojudeces.com/tres/)
+Una vez que asimilamos esta idea, es imposible dejar de reconocerla por todos lados. 
 
 ### referencias
 [tractatus en alemán y español](https://www.pensamientopenal.com.ar/system/files/2014/12/doctrina29684.pdf)

@@ -14,7 +14,7 @@ created:
 completed: 
 resources:
 ---
-Al igual que en el [Día del Padre](https://www.cojudeces.com/lecciones-del-dia-del-padre/), el domingo pasado nos obligaron a ir a otro “concierto en el parque”. Fue grandioso. Estamos pasando la [ola de calor más fuerte que hemos vivido](https://www.latimes.com/espanol/california/articulo/2022-09-02/algunos-de-los-records-cayeron-despues-de-mas-de-70-anos?ref=cojudeces.com) desde que nos mudamos a California el 2005 y aun así decidimos salir.
+Al igual que en el [Día del Padre](https://www.cojudeces.com/posts/lecciones-del-dia-del-padre/), el domingo pasado nos obligaron a ir a otro “concierto en el parque”. Fue grandioso. Estamos pasando la [ola de calor más fuerte que hemos vivido](https://www.latimes.com/espanol/california/articulo/2022-09-02/algunos-de-los-records-cayeron-despues-de-mas-de-70-anos?ref=cojudeces.com) desde que nos mudamos a California el 2005 y aun así decidimos salir.
 
 Ojo, no estamos hablando de los Rolling Stones en concierto, sino de bandas locales que la ciudad contrata para que entretengan un rato a la gente del vecindario…
 
@@ -46,7 +46,7 @@ Según Russell y Pitágoras, entonces, el dinero sirve para liberarnos del traba
 
 ## Escuadrón
 
-Pero bueno, nosotros en el escuadrón somos más prácticos y menos políticos y mucho menos filosóficos y mucho más burros, y nuestra conclusión es la siguiente: el dinero tiene dos funciones últimas: 1) ganar tiempo y 2) alejarnos de la gente (ver el post titulado [Riff Raff](https://www.cojudeces.com/riff-raff/)).
+Pero bueno, nosotros en el escuadrón somos más prácticos y menos políticos y mucho menos filosóficos y mucho más burros, y nuestra conclusión es la siguiente: el dinero tiene dos funciones últimas: 1) ganar tiempo y 2) alejarnos de la gente (ver el post titulado [Riff Raff](https://www.cojudeces.com/posts/riff-raff/)).
 
 Act accordingly. Nunca más conciertos en el parque.
 

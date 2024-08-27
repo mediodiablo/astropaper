@@ -16,7 +16,7 @@ La pregunta completa es:
 
 > Es posible identificar la mejor canción de toda la obra de un artista al escuchar solamente una canción?
 
-Lo que nos llevó a hacernos esta pregunta fue, nuevamente, un viaje largo en la [Jeep](https://www.cojudeces.com/jeep/) en el cual la canción #3 comenzó a sonar. Subimos el volumen y, mientras tocaban, nos dábamos cuenta de que cada segundo de los 537 que componen el tema sostenían un nivel perfecto. Ninguna nota escapaba de la unidad, equilibrio, y continuidad del todo.
+Lo que nos llevó a hacernos esta pregunta fue, nuevamente, un viaje largo en la [Jeep](https://www.cojudeces.com/posts/jeep/) en el cual la canción #3 comenzó a sonar. Subimos el volumen y, mientras tocaban, nos dábamos cuenta de que cada segundo de los 537 que componen el tema sostenían un nivel perfecto. Ninguna nota escapaba de la unidad, equilibrio, y continuidad del todo.
 
 Al parecer, entonces, la respuesta a la pregunta es un rotundo y poético sí.
 

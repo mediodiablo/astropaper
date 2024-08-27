@@ -21,7 +21,7 @@ Desde hace semanas me andaban preguntando qué quería hacer por mi día. Pensé
 
 Pero las preguntas seguían (siempre con un tono amable pero a la vez con un dejo de despotismo).
 
-Entonces cambié mi respuesta y dije que me gustaría un [gorrito](https://www.quiksilver.com/freecycle-snapback-hat-AQYHA04991.html?ref=cojudeces.com). Algo útil, de poco costo, pero suficiente como para satisfacer la necesidad de que me ofrenden algo. Al fin y al cabo sería mi primer día del padre.
+Entonces cambié mi respuesta y dije que me gustaría un [gorrito](https://www.quiksilver.com/collections/mens-accessories-hats). Algo útil, de poco costo, pero suficiente como para satisfacer la necesidad de que me ofrenden algo. Al fin y al cabo sería mi primer día del padre.
 
 ### "Pero experiencias valen más que cosas materiales"
 

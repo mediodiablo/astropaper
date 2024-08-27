@@ -17,7 +17,7 @@ resources:
 ---
 ![](../../assets/images/2022/2022-05-solvang-min.png)
 
-Bueno, aquí estamos. Domingo 8 de mayo. Día de la Madre, cumpleaños de nuestro colaborador Betuco y día siguiente a la infame media maratón. Cuando dije que era la [perfección a la inversa](https://www.cojudeces.com/el-regalo-antiperfecto/) porque requería sufrir por sufrir, lo hice por chonguear. No imaginé que aquellos comentarios serían los más atinados que he hecho en mucho tiempo. El impulso que me hizo cortar las zapatillas no era un problema psiquiátrico sino instinto de supervivencia... o quizá sea simplemente la patética condición de ser un personaje Dostoyevskiano como [Polzunkov](https://www.cojudeces.com/un-personaje-de-dostoyevsky/):
+Bueno, aquí estamos. Domingo 8 de mayo. Día de la Madre, cumpleaños de nuestro colaborador Betuco y día siguiente a la infame media maratón. Cuando dije que era la [perfección a la inversa](https://www.cojudeces.com/posts/el-regalo-antiperfecto/) porque requería sufrir por sufrir, lo hice por chonguear. No imaginé que aquellos comentarios serían los más atinados que he hecho en mucho tiempo. El impulso que me hizo cortar las zapatillas no era un problema psiquiátrico sino instinto de supervivencia... o quizá sea simplemente la patética condición de ser un personaje Dostoyevskiano como [Polzunkov](https://www.cojudeces.com/posts/un-personaje-de-dostoyevsky/):
 
 > En aquella cara se podía contemplar todo: vergüenza e insolente descaro, iracundia, dolor del fracaso, súplica de perdón por el atrevimiento de molestarle a uno, la conciencia del propio valer y, al mismo tiempo, la conciencia plena de la propia insignificancia...
 

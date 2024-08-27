@@ -28,7 +28,7 @@ Un lugar precioso y poco conocido.
 
 Todos sufrimos en el trabajo. No somos reconocidos por lo que realmente (creemos que) valemos. Trabajamos horas extra sin que nos paguen. Tenemos que lidiar con burocracia y batallas políticas. El jefe nos asigna proyectos cojudos, los tratamos de reasignar a nuestros subordinados y nos miran con cara de pocos amigos. Nos entregan un mamarracho que tenemos que tratar de arreglar antes de presentarlo al boss… y al final siempre la culpa es nuestra. No importa si ganamos el match 6/2 6/2, nos dicen que debimos haberlo ganado 6/1 6/1.
 
-Obvia y afortunadamente para algunos las cosas no son así todo el tiempo o casi nunca. Pero como bien lo dijimos [aquí](https://www.cojudeces.com/diversifica/), eventual e inevitablemente se sufre. Y quizá se sufre más cuando se está en plena transición de trabajador contento a trabajador descontento.
+Obvia y afortunadamente para algunos las cosas no son así todo el tiempo o casi nunca. Pero como bien lo dijimos [aquí](https://www.cojudeces.com/posts/diversifica/), eventual e inevitablemente se sufre. Y quizá se sufre más cuando se está en plena transición de trabajador contento a trabajador descontento.
 
 Bueno pues, en esas estamos y por eso la expedición al medio de la naturaleza en Carpinteria serviría de escape.
 

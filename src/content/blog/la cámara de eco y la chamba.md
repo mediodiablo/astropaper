@@ -25,7 +25,7 @@ Es la cámara de eco en acción.
 
 ## Diversifica
 
-Hace poco, en abril, publicamos el post [Diversifica](https://www.cojudeces.com/diversifica/). La idea principal del post provino justamente de la realidad opuesta a la cámara de eco. Estábamos pasando más tiempo con la familia y los amigos, y eso nos dio una perspectiva diferente. La perspectiva correcta.
+Hace poco, en abril, publicamos el post [Diversifica](https://www.cojudeces.com/posts/diversifica/). La idea principal del post provino justamente de la realidad opuesta a la cámara de eco. Estábamos pasando más tiempo con la familia y los amigos, y eso nos dio una perspectiva diferente. La perspectiva correcta.
 
 > Diversificar es saber que todos, en donde quiera que estén, eventualmente experimentarán contratiempos, frustraciones, decepciones. Y es estar preparado para esos reveses con las herramientas adecuadas y con la mente clara.
 
@@ -45,4 +45,4 @@ Le explicamos que en la otra costa el número de oportunidades de desarrollo pro
 
 “Después de tres o cuatro años nos mudamos de regreso a esta costa, la costa correcta”, contestamos.
 
-Y en ese instante, al oír nuestra propia respuesta, nos dimos cuenta (again) de porqué tenemos el [nombre de dominio](https://www.cojudeces.com/la-camara-de-eco/www.cojudeces.com) que nos merecemos.
+Y en ese instante, al oír nuestra propia respuesta, nos dimos cuenta (again) de porqué tenemos el [nombre de dominio](https://www.cojudeces.com/) que nos merecemos.
