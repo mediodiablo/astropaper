@@ -6,7 +6,7 @@ export const SITE: Site = {
   profile: "https://cojudeces.com/",
   desc: "compartiendo cosas inútiles y sin importancia desde el 2006.",
   title: "cojudeces.com",
-  ogImage: "coju-og.gif",
+  ogImage: "https://cojudeces.com/assets/coju-og.gif",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 9,

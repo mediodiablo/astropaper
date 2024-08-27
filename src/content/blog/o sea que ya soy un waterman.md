@@ -52,7 +52,7 @@ Tiene razón, pensé, tengo que comprar un longboard.
 
 “O sea que es cuestión de comprar más huevadas nomás?”, pregunté.
 
-“No es tan simple, si aspiras a que te llamen waterman y pegas un sticker en la [Jeep](https://www.cojudeces.com/jeep) y vistes tu ropita Quiksilver, la traducción de waterman que estás proyectando es la del cojudo que acaba de comprarse su paddle board. Surf legend y waterman son términos que se ganan con el tiempo y que no se buscan conscientemente.”
+“No es tan simple, si aspiras a que te llamen waterman y pegas un sticker en la [Jeep](https://www.cojudeces.com/posts/jeep) y vistes tu ropita Quiksilver, la traducción de waterman que estás proyectando es la del cojudo que acaba de comprarse su paddle board. Surf legend y waterman son términos que se ganan con el tiempo y que no se buscan conscientemente.”
 
 Nuevamente tenía razón. Qué curioso que Quiksilver tenga una línea de ropa llamada [The Waterman Collection](https://www.quiksilver.com/waterman/?ref=cojudeces.com) y que el término se venga escuchando con más frecuencia desde que se popularizó el stand up paddle boarding.
 

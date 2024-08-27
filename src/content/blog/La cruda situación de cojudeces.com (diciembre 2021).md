@@ -8,8 +8,9 @@ tags:
 type: post
 site: cojudeces.com
 status: published
+slug: la-cruda-situacion-diciembre-2021
 ---
-En nuestro update de octubre, concluíamos con que había que [buscar la producción y no la perfección.](https://www.cojudeces.com/la-cruda-situacion-octubre-2021/) Desde entonces hemos logrado publicar una cantidad decente de posts a pesar de haber estado subyugado a las fuerzas de la chamba, la familia, de unas vacaciones en Hawaii, y de las que aquí describo: la tentación de ponerse al día y de empezar de cero.
+En nuestro update de octubre, concluíamos con que había que [buscar la producción y no la perfección.](https://www.cojudeces.com/posts/la-cruda-situacion-octubre-2021/) Desde entonces hemos logrado publicar una cantidad decente de posts a pesar de haber estado subyugado a las fuerzas de la chamba, la familia, de unas vacaciones en Hawaii, y de las que aquí describo: la tentación de ponerse al día y de empezar de cero.
 
 # La tentación de ponerse al día y el time management
 
@@ -27,7 +28,7 @@ Ligada a la idea de ponerse al día está el también poderoso concepto de empez
 
 > “Y si yo ahora perdiese los ánimos, y si no me atreviera a decidirme...? **¡Mañana, mañana se termina todo!”**
 
-En el mes de diciembre del 2021, elegimos intentar empezar de cero digitalmente. Obviamente en sentido figurado, pues cuando ya se llevan más de cuatro décadas en este mundo hay cosas que son, hablando prácticamente, imposibles de dejar (por ejemplo, cojudeces.com o [nuestros apps favoritos](https://www.cojudeces.com/nuestros-apps-favoritos-2021/)). Una vez preguntamos en reddit si era posible erradicar de internet las huellas que uno ha ido dejando con el tiempo, nos respondieron _you can check out any time you like, but you can never leave!_
+En el mes de diciembre del 2021, elegimos intentar empezar de cero digitalmente. Obviamente en sentido figurado, pues cuando ya se llevan más de cuatro décadas en este mundo hay cosas que son, hablando prácticamente, imposibles de dejar (por ejemplo, cojudeces.com o [nuestros apps favoritos](https://www.cojudeces.com/posts/nuestros-apps-favoritos-2021/)). Una vez preguntamos en reddit si era posible erradicar de internet las huellas que uno ha ido dejando con el tiempo, nos respondieron _you can check out any time you like, but you can never leave!_
 
 Bueno, qué hicimos?
 
@@ -61,7 +62,7 @@ Con esto, nuestro nuevo inbox se mantiene limpio y la información que entra es 
 
 ## Resetear instalaciones de Wordpress
 
-La última estupidez que hicimos fue resetear las instalaciones de Wordpress que tenemos en dos de nuestros websites (recuerden que cojudeces.com por el momento se maneja en [Ghost](https://www.cojudeces.com/wordpress-vs-ghost/)).
+La última estupidez que hicimos fue resetear las instalaciones de Wordpress que tenemos en dos de nuestros websites (recuerden que cojudeces.com por el momento se maneja en [Ghost](https://www.cojudeces.com/posts/wordpress-vs-ghost/)).
 
 Con las nuevas instalaciones de Wordpress, eliminamos toda la carga innecesaria de plugins y themes que se habían acumulado con el tiempo. La idea es tener solamente lo indispensable y darle prioridad a la velocidad y simplicidad de las páginas.
 

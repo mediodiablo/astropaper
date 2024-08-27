@@ -8,6 +8,7 @@ tags:
 type: post
 site: cojudeces.com
 status: published
+slug: la-cruda-situacion-octubre-2021
 ---
 La cruda situación es que las cosas no andan bien y ha llegado el momento de tomar el asunto con la seriedad debida. Durante los últimos cinco años hemos perdido el rumbo, hemos tratado a cojudeces.com como si fuese uno de esos grupos de amigos del colegio o del barrio que uno no ha visto por bastante tiempo y que uno contacta emocionado de cuando en cuando, se hacen planes de reencuentro, y al final no pasa nada, los planes se postergan una y otra vez.
 
