@@ -11,6 +11,7 @@ title: "lecciones de filosofía (Sócrates)"
 description: "sabiduría Socrática directamente de la Biblioteca Gredos"
 pubDatetime: 2023-10-19
 reference 1: [[behave philosophically (seek real knowledge)]]
+slug: socrates
 ---
 ![](../../assets/images/2023/2023-10-socrates.jpeg)
 

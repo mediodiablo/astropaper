@@ -28,4 +28,4 @@ Entonces pues, hicimos una transferencia a través de la red bancaria local a la
 Hoy nos enteramos de que se está jugando un torneo ATP challenger de tenis en el Jockey Club del Perú y que you know who utilizó el dinero recibido para apostar en contra del tenista que facilitó la transferencia.
 
 ## qué es la justicia?
-Eso no lo sabe ni [Sócrates](www.cojudeces.com/lecciones-de-filosofia-socrates/) ni [Lanssiers](www.cojudeces.com/examen-de-filosofia-lanssiers/), pero el tenista ganó 7/6, 6/7, 6/4.
+Eso no lo sabe ni [Sócrates](../socrates/) ni [Lanssiers](../examen-de-filosofia/), pero el tenista ganó 7/6, 6/7, 6/4.
