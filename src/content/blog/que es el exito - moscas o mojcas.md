@@ -18,8 +18,7 @@ Cuando nos encontramos en uno de aquellos momentos introspectivos y pensamos en 
 
 Ya a estas alturas todos hemos oído los clichés que el éxito no se mide en dólares, que muchísimos billonarios viven atormentados por traumas que no se solucionan con dinero, que Dan Bilzerian es una persona triste, etcétera.
 
-#### Dan Bilzerian es una persona triste
-![](../../assets/images/2021/2021-09-Dan-B.png)
+![](../../assets/images/2021/2021-09-Dan-B.png)*Dan Bilzerian es una persona triste*
 
 Pero hace poco escuchamos otra definición: “tener éxito significa poder dormir tranquilo todas las noches”. Una muy buena definición, cargada de significado, pero quizá destinada a popularizarse, trivializarse, y convertirse en un cliché más.
 
@@ -56,8 +55,7 @@ Se armó un escándalo, un *tantrum*. El grito en el cielo.
 -- J: bla bla bla  
 -- N: es o Australia o yo, tú decides
 
-#### Frente a la Opera, 1/2d, J, York
-![](../../assets/images/2021/2021-09-Australia-0161.jpeg)
+![](../../assets/images/2021/2021-09-Australia-0161.jpeg)*Frente a la Opera, 1/2d, J, York*
 
 ## The Great Ocean Road
 
@@ -69,8 +67,7 @@ Geelong, Torquay, Bells Beach, Lorne... Warrnambool... y en algún lugar entre p
 
 Decidimos entrar.
 
-#### se pueden apreciar la cabeza de J y los palitroques de Percy
-![](../../assets/images/2021/2021-09-Australia-0480.jpeg)
+![](../../assets/images/2021/2021-09-Australia-0480.jpeg)*se pueden apreciar la cabeza de J y los palitroques de Percy*
 
 Un rip current nos envolvió y nos expectoró veinte metros mar adentro. Vi a Percy, hicimos contacto visual, pero J no estaba. Lo vimos un poco más adentro y alejándose.
 
@@ -92,5 +89,4 @@ J se echó a lo largo del asiento y dijo:
 
 No nos hablaba a nosotros, se hablaba a sí mismo y a la vez al mundo entero.
 
-#### camino de regreso, con la luna, escuchando Fake Plastic Trees
-![](../../assets/images/2021/2021-09-The-Moon-0001.jpeg)
+![](../../assets/images/2021/2021-09-The-Moon-0001.jpeg)*camino de regreso, con la luna, escuchando Fake Plastic Trees*
