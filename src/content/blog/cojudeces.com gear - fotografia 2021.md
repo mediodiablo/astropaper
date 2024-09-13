@@ -71,13 +71,13 @@ Solamente dos lentes, ambos son zoom debido al tema versatilidad. En el pasado h
 
 Nuestro lente principal. Lo usamos el 95% del tiempo. Nos da suficiente amplitud para hacer tomas panorámicas y suficiente zoom como para tomar buenos retratos.
 
-Tres elementos adicionales que este [Tamron 17-70mm f/2.8](https://www.bhphotovideo.com/c/product/1609642-REG/tamron_afb070s_700_17_70mm_f_2_8_di_iii_a.html?ref=cojudeces-com.ghost.io) tiene a su favor: 1) cuenta con _in body stabilization_, 2) es capaz de enfocar desde distancias bastante reducidas, algo muy bueno para fotografiar flores o insectos, por ejemplo, y 3) es $600 más barato que su contraparte, el [Sony E 16-55mm f/2.8 G](https://www.bhphotovideo.com/c/product/1502819-REG/sony_e_16_55mm_f_2_8_g.html?ref=cojudeces-com.ghost.io).
+Tres elementos adicionales que este [Tamron 17-70mm f/2.8](https://www.bhphotovideo.com/c/product/1609642-REG/tamron_afb070s_700_17_70mm_f_2_8_di_iii_a.html) tiene a su favor: 1) cuenta con _in body stabilization_, 2) es capaz de enfocar desde distancias bastante reducidas, algo muy bueno para fotografiar flores o insectos, por ejemplo, y 3) es $600 más barato que su contraparte, el [Sony E 16-55mm f/2.8 G](https://www.bhphotovideo.com/c/product/1502819-REG/sony_e_16_55mm_f_2_8_g.html).
 
 ### Sony FE 70-200mm f/4 G
 
 ![](../../assets/images/2021/2021-10-sony_70-200mm_f4_g_lens.jpeg)
 
-El [Sony FE 70-200mm f/4 G](https://www.bhphotovideo.com/c/product/1029862-REG/sony_sel70200g_70_200mm_f_4_5_6_g_lens.html?ref=cojudeces-com.ghost.io) tiene una capacidad extraordinaria de enfoque. Fue nuestro lente favorito en una expedición a Tanzania que hicimos el 2019. Desafortunadamente estos días casi nunca lo llevamos con nosotros porque es pesado y grande y por lo de los switching costs. Altamente recomendable y no creemos que tenga mucho que envidiarle a su hermano mayor, el [Sony FE 70-200mm f/2.8 GM](https://www.bhphotovideo.com/c/product/1222776-REG/sony_sel70200gm_fe_70_200mm_f_2_8_gm.html?ref=cojudeces-com.ghost.io), que _by the way_ cuesta $1,100 adicionales.
+El [Sony FE 70-200mm f/4 G](https://www.bhphotovideo.com/c/product/1029862-REG/sony_sel70200g_70_200mm_f_4_5_6_g_lens.html) tiene una capacidad extraordinaria de enfoque. Fue nuestro lente favorito en una expedición a Tanzania que hicimos el 2019. Desafortunadamente estos días casi nunca lo llevamos con nosotros porque es pesado y grande y por lo de los switching costs. Altamente recomendable y no creemos que tenga mucho que envidiarle a su hermano mayor, el [Sony FE 70-200mm f/2.8 GM](https://www.bhphotovideo.com/c/product/1222776-REG/sony_sel70200gm_fe_70_200mm_f_2_8_gm.html), que _by the way_ cuesta $1,100 adicionales.
 
 ![](../../assets/images/2021/2021-10-Tanzania-ngorongoro.jpg)
 
@@ -87,13 +87,13 @@ Uno de los peores deals en tema costo-beneficio es el Sony Vario-Tessar T* E 16-
 
 ![](../../assets/images/2021/2021-10-sony_sel1670z_16_70mm_f_4_za_lens.jpeg)
 
-Siempre pensábamos que la culpa era nuestra. “No es posible que un lente de $798 sea una kaka. Esto tiene que ser falla del usuario.” Así pensábamos hasta que vimos este [video](https://youtu.be/WE5I64U-RuQ?ref=cojudeces-com.ghost.io) de Arthur R.
+Siempre pensábamos que la culpa era nuestra. “No es posible que un lente de $798 sea una kaka. Esto tiene que ser falla del usuario.” Así pensábamos hasta que vimos este [video](https://youtu.be/WE5I64U-RuQ) de Arthur R.
 
 ## Trípode
 
 Un trípode es definitivamente importante (aunque no imprescindible), a pesar de que esté en conflicto con el postulado 2. Es un accesorio excelente para capturar paisajes al amanecer o atardecer. Y últimamente le encontramos muchísima utilidad para tomar fotos de la familia.
 
-Nosotros usamos el [MeFOTO BackPacker](https://www.bhphotovideo.com/c/product/926387-REG/benro_a0350q0k_0_series_travel_tripod_kit.html?ref=cojudeces-com.ghost.io) desde el 2014 y todo va bien.
+Nosotros usamos el [MeFOTO BackPacker](https://www.bhphotovideo.com/c/product/926387-REG/benro_a0350q0k_0_series_travel_tripod_kit.html) desde el 2014 y todo va bien.
 
 ![](../../assets/images/2021/2021-10-mefoto_backpacker_travel_tripod_1.jpeg)
 ![](../../assets/images/2021/2021-10-mefoto_backpacker_travel_tripod_2.jpeg)

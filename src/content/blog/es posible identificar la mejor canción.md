@@ -1,5 +1,6 @@
 ---
-tag: música
+tags:
+- música
 type: post
 site: cojudeces.com
 status: published

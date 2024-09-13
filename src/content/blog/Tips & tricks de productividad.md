@@ -1,6 +1,7 @@
 ---
 tags:
   - productividad
+  - tips-and-tricks
 type: post
 site: cojudeces.com
 status: published

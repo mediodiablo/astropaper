@@ -5,6 +5,7 @@ pubDatetime: 2021-10-06
 updateDate: 
 tags: 
 - viajes
+- tips-and-tricks
 type: post
 site: cojudeces.com
 status: published

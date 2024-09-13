@@ -12,7 +12,7 @@ slug: la-cruda-situacion-diciembre-2021
 ---
 En nuestro update de octubre, concluíamos con que había que [buscar la producción y no la perfección.](https://www.cojudeces.com/posts/la-cruda-situacion-octubre-2021/) Desde entonces hemos logrado publicar una cantidad decente de posts a pesar de haber estado subyugado a las fuerzas de la chamba, la familia, de unas vacaciones en Hawaii, y de las que aquí describo: la tentación de ponerse al día y de empezar de cero.
 
-# La tentación de ponerse al día y el time management
+## La tentación de ponerse al día y el time management
 
 Una de las fallas de firmware mental que continuamos encontrando es esa _tentación_ (que nuestro cerebro interpreta como _necesidad_) de ponernos al día antes de poder empezar a trabajar en los proyectos que consideramos realmente importantes.
 
@@ -22,7 +22,7 @@ En el ámbito personal y familiar, decidimos hacer una pausa en el tema producci
 
 Un ejemplo más de yapa: la gente que se emociona con el tema “productividad” y pasa horas de horas explorando nuevas herramientas y procesos para ser más efectivos. Ni bien terminan de establecer un nuevo sistema, ya están distrayéndose con lo ultimito. Nosotros somos culpables, pero hablamos en tercera persona porque sabemos que no estamos solo: el hecho de que haya una plétora de canales de YouTube dedicados a la “productividad” que constantemente publican videos indica que esto también es una pandemia.
 
-# Empezar de cero. Minimalismo en el mundo digital para escapar de la realidad
+## Empezar de cero. Minimalismo en el mundo digital para escapar de la realidad
 
 Ligada a la idea de ponerse al día está el también poderoso concepto de empezar de cero. Algo parecido al final de El Jugador, de Dostoyevksy:
 
@@ -32,13 +32,13 @@ En el mes de diciembre del 2021, elegimos intentar empezar de cero digitalmente.
 
 Bueno, qué hicimos?
 
-## Crear un nuevo perfil
+### Crear un nuevo perfil
 
 **Intento fallido**. Lo primero que pensamos fue eliminar toda cuenta online que fuera no esencial. Pero sucumbimos al ver que Google había registrado user names y passwords para más de 300 cuentas online. Increíble.
 
 **Plan B: crear un nuevo perfil**. Entramos a DreamHost y titeamos diferentes combinaciones de nombre de dominio hasta que encontramos uno disponible y bacán. Lo separamos por los siguientes tres años. Enseguida le asignamos una cuenta de Google Workspace para poder usar Gmail con nuestro nombre de dominio.
 
-## Adiós Google Chrome, hola Safari
+### Adiós Google Chrome, hola Safari
 
 Este cambio es funcionalmente innecesario. Chrome y Safari están a la par en términos de velocidad y diseño, desde nuestra inocente perspectiva.
 
@@ -46,7 +46,7 @@ Pero es un cambio necesario desde el punto de vista estético. Queremos un nuevo
 
 Hasta el momento todo bien. Estamos escribiendo este post en Notion desde una ventana de Safari. No extrañamos Chrome.
 
-## Qué hemos transferido al nuevo perfil?
+### Qué hemos transferido al nuevo perfil?
 
 Los únicos apps que han sobrevivido son los siguientes:
 
@@ -60,7 +60,7 @@ Los únicos apps que han sobrevivido son los siguientes:
 
 Con esto, nuestro nuevo inbox se mantiene limpio y la información que entra es casi siempre relevante... veremos cuánto tiempo dura esta belleza.
 
-## Resetear instalaciones de Wordpress
+### Resetear instalaciones de Wordpress
 
 La última estupidez que hicimos fue resetear las instalaciones de Wordpress que tenemos en dos de nuestros websites (recuerden que cojudeces.com por el momento se maneja en [Ghost](https://www.cojudeces.com/posts/wordpress-vs-ghost/)).
 
@@ -72,6 +72,6 @@ Empezar de cero digitalmente... qué paja sería empezar de cero en el mundo rea
 
 Y bueno, después de habernos puesto al día, y ya con nuestro nuevo perfil y todo eso...
 
-### ... emprendemos el 2022 con toda la energía y todo el optimismo, como Arthur!
+#### ... emprendemos el 2022 con toda la energía y todo el optimismo, como Arthur!
 
 ![](../../assets/images/2021/2021-12-Arthur-1.jpeg)

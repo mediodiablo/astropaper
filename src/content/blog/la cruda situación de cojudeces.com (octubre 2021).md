@@ -14,7 +14,7 @@ La cruda situación es que las cosas no andan bien y ha llegado el momento de to
 
 Siempre queda la ilusión del reencuentro y se hacen más planes. Una cojudez.
 
-# Estás aquí o estás allá?
+## Estás aquí o estás allá?
 
 cojudeces.com ha estado pasando del más acá, al más allá, y de vuelta al más acá en un loop sin sentido. Nos referimos a que la página ha intercalado temporadas online y offline. Durante los intervalos fuera de internet, todos nuestros rankings en Google han sido obliterados.
 
@@ -22,31 +22,31 @@ Por qué hemos estado offline? Porque hemos patéticamente adoptado la disposici
 
 Por ejemplo:
 
-## Migraciones de plataforma
+### Migraciones de plataforma
 
 Desde circa 2015 hemos migrado de wordpress a squarespace, de vuelta a wordpress, y desde hace una semana a ghost.
 
-## Diseño 1 - migraciones de diseño (theme)
+### Diseño 1 - migraciones de diseño (theme)
 
 Si bien nos enorgullecemos de buscar siempre diseños modernos y minimalistas, cometemos el error de gastar tiempo de más buscando, instalando, modificando y re-modificando nuestro diseño. El diseño es importante, pero si no hay contenido o el contenido es una kaka, qué hacemos?
 
-## Diseño 2 - perfeccionismo
+### Diseño 2 - perfeccionismo
 
 Tenemos una idea bien formada de cómo queremos que se vea nuestra página, desde la paleta de colores, tipo de letra, nombre y disposición de secciones, etcétera... y entonces, en vez de instalar un buen theme y ponernos a escribir, indagamos cómo modificar el theme y nos encontramos frente a nuestra incompetencia en el tema web development, lo que inevitablemente nos lleva a buscar _otro_ theme, instalarlo y continuar con el círculo vicioso.
 
-## Diseño 3 - fotografía e ilustraciones
+### Diseño 3 - fotografía e ilustraciones
 
 Nos gusta bastante la fotografía y las ilustraciones, y hay veces en las que dejamos de escribir o de publicar un post porque no logramos encontrar la foto adecuada. Peor aun, soñamos despiertos que vamos a aprender a dibujar y **después** vamos a publicar mejores posts.
 
 No queremos echarle la culpa a otros, pero el blog de Erik Gauger nos ha cagado gracias a sus fotos e [ilustraciones](https://www.notesfromtheroad.com/roam/moleskine.html?ref=cojudeces.com) (hagan click por favor, sus cuadernos moleskine son obras de arte). A las huevadas que escribe no le paramos bola, pero su blog tiene un muy buen diseño donde todos los elementos viven en armonia.
 
-# Distracciones
+## Distracciones
 
 Tenemos, como se diría en eufemismo gringo, _competing priorities_. Por supuesto que nada de esto constituye una excusa. Son las mismas responsabilidades y distracciones que tiene cualquiera en el siglo 21. Trabajo que cada día exige un poquito más de nuestro tiempo, surfing, ejercicio diario, familiares que esperan que cada micro-segundo de nuestro "tiempo libre" sea dedicado a ellos (que incluye, desde agosto, a un pequeño tirano).
 
 ![cute baby with framed felt letter board](../../assets/images/2021/Kai-6-semanas-min.jpg)
 
-# Y ahora qué?
+## Y ahora qué?
 
 Nada pues, salir adelante. Como dicen los futbolistas peruanos después de las derrotas:
 
